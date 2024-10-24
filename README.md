@@ -3,7 +3,7 @@
 
 **Инструкция по запуску:**
 
-1. Клонирование репозитория:**
+1. Клонирование репозитория:
   
 bash
   git clone https://github.com/VladimirKorolev1986/ServerClient
