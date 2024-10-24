@@ -7,7 +7,7 @@
   
 bash
   git clone https://github.com/VladimirKorolev1986/ServerClient
-  ```
+  
 2. Установка зависимостей:
   
   cd multithreaded-content-downloader
